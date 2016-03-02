@@ -16,6 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         say("This is a test repo");// TODO code application logic here
+        say("revision");
     }
     
     public static void say(String text){
